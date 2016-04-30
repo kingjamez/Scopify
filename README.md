@@ -4,7 +4,7 @@ These steps will allow a Raspberry Pi of nearly any form to become a WiFi->Seria
 
 There are many ways that I will talk about to make a WiFi to Serial Bridge. Raspberry Pi being the most popular will come first. The instructions should work on all flavors of the Pi. I'm doing all my development work on the RPi Zero, A+, B+, and 2.
 
-For the Raspberry Pi version, you can build your own from the instructions (Scopify Raspberry Pi.md) or download the torrent file (scopify_pi.7z.torrent) of the disk image. 
+For the Raspberry Pi version, you can build your own from the instructions (Scopify Pi Instructions.pdf) or download the torrent file (scopify_pi.7z.torrent) of the disk image. 
 
 Future instructions will cover the NTC C.H.I.P. (awesome little device), and the ESP8266 modules. 
 
